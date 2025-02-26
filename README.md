@@ -34,8 +34,6 @@ These are derived conclusions after completing our data visualisation phase.
 * It is obvious that 79.8% of our patients did show up on their appointments and only 20.1% of them did not.
 * Women do show up on their appointments more often than men do, but this may b affected by the percentage of women on this dataset.
 
---
-
 **Q2: Does recieving an SMS as a reminder affect whether or not a patient may show up? is it correlated with number of days before the appointment?**
 * 67.8% of our patients did not reciee any SMS reminder of their appointments, yet they showed up on their appointments.
 * It is clear that there is a positive correlation between number of due days and whether a patient shows up or not.
