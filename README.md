@@ -1,4 +1,4 @@
-# Medical_Appointment_No-show
+# Medical Appointment No Show Dataset Analysis
 
 # EDA Questions:
 * Q1: How often do men go to hospitals compared to women? Which of them is more likely to show up?
