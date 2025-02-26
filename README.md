@@ -1,10 +1,10 @@
 # Medical_Appointment_No-show
 
 # EDA Questions:
-Q1: How often do men go to hospitals compared to women? Which of them is more likely to show up?
-Q2: Does recieving an SMS as a reminder affect whether or not a patient may show up? is it correlated with number of days before the appointment?
-Q3: Does having a scholarship affects showing up on a hospital appointment? What are the age groups affected by this?
-Q4: Does having certain deseases affect whather or not a patient may show up to their appointment? is it affected by gender?
+* Q1: How often do men go to hospitals compared to women? Which of them is more likely to show up?
+* Q2: Does recieving an SMS as a reminder affect whether or not a patient may show up? is it correlated with number of days before the appointment?
+* Q3: Does having a scholarship affects showing up on a hospital appointment? What are the age groups affected by this?
+* Q4: Does having certain deseases affect whather or not a patient may show up to their appointment? is it affected by gender?
 
 # Data Wrangling:
 Our data can be found on noshowappointments-kagglev2-may-2016.csv file provided on this repository, downloaded from Kaggle.
@@ -33,6 +33,8 @@ These are derived conclusions after completing our data visualisation phase.
 * Nearly half of our dataset conists of women with wider age destribution and some outliers, all of which achiees a rate higher than men.
 * It is obvious that 79.8% of our patients did show up on their appointments and only 20.1% of them did not.
 * Women do show up on their appointments more often than men do, but this may b affected by the percentage of women on this dataset.
+
+--
 
 **Q2: Does recieving an SMS as a reminder affect whether or not a patient may show up? is it correlated with number of days before the appointment?**
 * 67.8% of our patients did not reciee any SMS reminder of their appointments, yet they showed up on their appointments.
